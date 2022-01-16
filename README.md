@@ -2,4 +2,5 @@
 A music playlist using linked list
  
 # Screenshot
-![image](https://user-images.githubusercontent.com/89207792/149676329-66c6dd67-6d2a-4a8e-a6e0-712a69219522.png)
+![image](https://user-images.githubusercontent.com/89207792/149676383-d1dcb477-d678-44d2-b49b-5031d1dfe72f.png)
+
